@@ -22,3 +22,4 @@ Insert description here!
 Insert description here!
 
 ## Acknowledgements
+- *Practical learning of the essential tools used in Data Science with hands on examples and projects course* by [Graeme Gordon](https://www.udemy.com/user/graeme-gordon-32/) on Udemy - for supplying knowledge and questions for the Classic Models database project
