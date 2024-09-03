@@ -1,6 +1,8 @@
+/*
 -- Questions provided by SQLZoo - https://sqlzoo.net/wiki/AdventureWorks
 -- Queried in SQL Server Management Studio using the AdventureWorks 2022 database. 
 -- NOTE: Although SQLZoo provides an engine to complete these, I did them in SSMS so my answers will not register correctly there. 
+*/
 
 -- #1. Show the first name and the email address of customer with CompanyName 'Bike World'
 
@@ -82,6 +84,50 @@ WHERE p.ListPrice > 1000;
 +-------+
 | 64940 |
 +-------+
+
+
+-- #4. Give the CompanyName of those customers with orders over $100000. Include the subtotal plus tax plus freight.
+
+SELECT 
+	c.CustomerID,
+	s.Name,
+	SUM(soh.SubTotal + soh.TaxAmt + soh.Freight) AS totalPurchased
+	
+FROM sales.Customer c
+
+INNER JOIN  sales.SalesOrderHeader soh
+	ON c.CustomerID = soh.CustomerID
+
+INNER JOIN sales.SalesOrderDetail sod
+	ON soh.SalesOrderID = sod.SalesOrderID
+
+INNER JOIN sales.Store s
+	ON s.BusinessEntityID = c.StoreID
+
+	WHERE (soh.SubTotal + soh.TaxAmt + soh.Freight) > 100000
+
+GROUP BY 
+    c.CustomerID,
+    s.Name
+
+ORDER BY 
+    totalPurchased DESC;
+
+-- Result (limited to 10 rows):
++-----------+------------------------------+-------------------+
+| CustomerID | Name                        |  totalPurchased   |
++-----------+------------------------------+-------------------+
+| 29641     | Westside Plaza               | 31497626.5716     |
+| 29701     | Outdoor Equipment Store      | 27997622.1201     |
+| 29913     | Field Trip Store             | 20946237.681      |
+| 29616     | Sheet Metal Manufacturing    | 18609627.8608     |
+| 29646     | Fitness Toy Store            | 17871356.367      |
+| 29923     | Roadway Bicycle Supply       | 17777330.4011     |
+| 30074     | Tenth Bike Store             | 17299519.9214     |
+| 29715     | Excellent Riding Supplies    | 17284546.2819     |
+| 29716     | Farthermost Bike Shop        | 16894853.0341     |
+| 30103     | Metropolitan Equipment       | 16721970.9152     |
++-----------+------------------------------+-------------------+
 
 
 
