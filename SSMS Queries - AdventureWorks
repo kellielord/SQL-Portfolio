@@ -1,5 +1,6 @@
 -- Questions provided by SQLZoo - https://sqlzoo.net/wiki/AdventureWorks
--- Queried in SQL Server Management Studio using the AdventureWorks database. Although SQLZoo provides an engine to complete these, I did them in SSMS so my answers will not register correctly there. 
+-- Queried in SQL Server Management Studio using the AdventureWorks 2022 database. 
+-- NOTE: Although SQLZoo provides an engine to complete these, I did them in SSMS so my answers will not register correctly there. 
 
 -- #1. Show the first name and the email address of customer with CompanyName 'Bike World'
 
