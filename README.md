@@ -23,3 +23,5 @@ Insert description here!
 
 ## Acknowledgements
 - *Practical learning of the essential tools used in Data Science with hands on examples and projects course* by [Graeme Gordon](https://www.udemy.com/user/graeme-gordon-32/) on Udemy - for supplying knowledge and questions for the Classic Models database project
+- Classic Models database questions available [here](https://www.richardtwatson.com/open/Reader/ClassicModels.html)
+- Questions for the AdventureWorks database found [here](https://sqlzoo.net/wiki/AdventureWorks_easy_questions)
