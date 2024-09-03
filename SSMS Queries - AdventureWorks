@@ -1,3 +1,26 @@
 -- Questions provided by SQLZoo - https://sqlzoo.net/wiki/AdventureWorks
--- Queried in SQL Server Management Studio using the AdventureWorks database
+-- Queried in SQL Server Management Studio using the AdventureWorks database. Although SQLZoo provides an engine to complete these, I did them in SSMS so my answers will not register correctly there. 
+
+-- #1. Show the first name and the email address of customer with CompanyName 'Bike World'
+
+SELECT 
+	CustomerID,
+	Name,
+	p.FirstName,
+	ea.EmailAddress
+
+FROM sales.customer c
+
+INNER JOIN sales.store st
+	ON c.StoreID = st.BusinessEntityID
+
+INNER JOIN person.person p
+	ON p.BusinessEntityID = c.PersonID
+
+INNER JOIN person.EmailAddress ea
+	ON ea.BusinessEntityID = c.PersonID
+
+WHERE Name = 'Bike World';
+
+
 
