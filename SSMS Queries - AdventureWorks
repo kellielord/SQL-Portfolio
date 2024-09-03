@@ -6,9 +6,9 @@
 
 SELECT 
 	CustomerID,
-	Name,
-	p.FirstName,
-	ea.EmailAddress
+	Name AS businessName,
+	p.FirstName AS customerName,
+	ea.EmailAddress AS customerEmail
 
 FROM sales.customer c
 
@@ -22,6 +22,7 @@ INNER JOIN person.EmailAddress ea
 	ON ea.BusinessEntityID = c.PersonID
 
 WHERE Name = 'Bike World';
+
 
 
 
