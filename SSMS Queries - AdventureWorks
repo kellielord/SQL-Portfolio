@@ -23,6 +23,70 @@ INNER JOIN person.EmailAddress ea
 
 WHERE Name = 'Bike World';
 
+-- Result:
++------------+-------------+-------------+-------------------------------+
+| CustomerID | BusinessName | CustomerName |        CustomerEmail        |
++------------+-------------+-------------+-------------------------------+
+|   29809    |  Bike World  |    Kerim     | kerim0@adventure-works.com  |
++------------+-------------+-------------+-------------------------------+
+
+
+-- #2. Show the CompanyName for all customers with an address in City 'Dallas'.
+
+SELECT 
+	ad.City AS businessCity,
+	st.Name AS businessName
+
+FROM sales.customer c
+
+INNER JOIN sales.store st
+	ON c.StoreID = st.BusinessEntityID
+
+INNER JOIN person.BusinessEntityAddress bea
+	ON st.BusinessEntityID = bea.AddressID
+
+INNER JOIN person.Address ad
+	ON bea.AddressID = ad.AddressID
+
+WHERE City = 'Dallas'
+ORDER BY Name ASC
+;
+
+-- Result:
++-------------+--------------------+
+| BusinessCity |   BusinessName    |
++-------------+--------------------+
+|   Dallas    |   Bike Universe    |
+|   Dallas    |  Channel Outlet    |
+|   Dallas    |  Channel Outlet    |
+|   Dallas    | Fifth Bike Store   |
+|   Dallas    | Fifth Bike Store   |
++-------------+--------------------+
+
+
+-- #3. How many items with ListPrice more than $1000 have been sold?
+
+SELECT 
+	SUM(sod.OrderQty) AS Total
+
+FROM sales.SalesOrderDetail sod
+
+LEFT JOIN Production.Product p ON 
+	p.ProductID = sod.ProductID
+
+WHERE p.ListPrice > 1000;
+
+-- Result:
++-------+
+| Total |
++-------+
+| 64940 |
++-------+
+
+
+
+
+
 
 
 
