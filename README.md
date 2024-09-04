@@ -2,7 +2,7 @@
 Thank you for visiting! This repository showcases SQL I've written during personal projects and data analytics courses. Below, I've included some of my strongest projects and visualizations I've created in PowerBI and Tableau. Feel free to explore, and don't hesitate to [contact me](https://www.linkedin.com/in/kellielord/) if you have any questions! 
 ## Featured Projects
 
-### Classic Models Sales Overview [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Classic%20Models%20Sales%20Overview) - [Excel]() - [PowerBI Dashboard]()
+### Classic Models Sales Overview [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Classic%20Models%20Sales%20Overview) - [Google Sheet](https://docs.google.com/spreadsheets/d/1EEH8KPtTxuVk2v5BaW9RD5ewuMzpaKBpJbFbwCT71ys/pubhtml) - [PowerBI Dashboard]()
 - **Dataset**: Classic Models database, available [here]()
 - **Audience**: 
 - **Objective**:
