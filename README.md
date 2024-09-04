@@ -7,7 +7,7 @@ Thank you for visiting! This repository showcases SQL I've written during person
 - **Audience**: Sales Leaders 
 - **Objective**: Analyze sales patterns through product performance, regional sales numbers, and customer trends in the Classic Models database
 
-In this project, I analyze the sales data in the Classic Models database. 
+In this project, I analyze the sales data in the Classic Models database. By highlighting key summarizations from the data, 
 
 ### Project 2 [SQL]() - [Tableau Dashboard]()
 - **Dataset**:
