@@ -3,11 +3,12 @@ Thank you for visiting! This repository showcases SQL I've written during person
 ## Featured Projects
 
 ### Classic Models Sales Overview [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Classic%20Models%20Sales%20Overview) - [Google Sheet](https://docs.google.com/spreadsheets/d/1EEH8KPtTxuVk2v5BaW9RD5ewuMzpaKBpJbFbwCT71ys/pubhtml) - [PowerBI Dashboard]()
-- **Dataset**: Classic Models database, available [here]()
-- **Audience**: 
-- **Objective**:
+- **Dataset**: Classic Models database, available [here](https://www.kaggle.com/code/rhettap1/classicmodels-w-sql-excel-python)
+- **Audience**: Sales Leaders 
+- **Objective**: Analyze sales patterns through product performance, regional sales numbers, and customer trends in the Classic Models database
 
-Insert description here!
+In this project, I analyze the sales data in the Classic Models database. 
+
 ### Project 2 [SQL]() - [Tableau Dashboard]()
 - **Dataset**:
 - **Audience**:
