@@ -25,9 +25,3 @@ With the objective of investigating hidden sales patterns within the Classic Mod
 
 ## More Projects
 **Electric Vehicle Dashboard** - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/ElectricVehicleDashboard_17260145241310/Dashboard1?publish=yes): This dashboard provides a comprehensive view of electric vehicle adoption patterns across counties Washington, USA. The dashboard includes visualizations such as vehicle population by year, a pie chart of vehicle types, and a breakdown of the top 10 counties for electric vehicle adoption.
-
-## Acknowledgements
-- *Practical learning of the essential tools used in Data Science with hands on examples and projects course* by [Graeme Gordon](https://www.udemy.com/user/graeme-gordon-32/) on Udemy
-- Classic Models database questions available [here](https://www.richardtwatson.com/open/Reader/ClassicModels.html)
-- Questions for the AdventureWorks database found [here](https://sqlzoo.net/wiki/AdventureWorks_easy_questions)
-
