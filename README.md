@@ -2,7 +2,7 @@
 Thank you for visiting! This repository showcases SQL I've written during personal projects and data analytics courses. Below, I've included some of my strongest projects and visualizations I've created in PowerBI and Tableau. Feel free to explore, and don't hesitate to [contact me](https://www.linkedin.com/in/kellielord/) if you have any questions! 
 ## Featured Projects
 
-### Global Data Science Salaries Analysis [SQL]() - [Tableau Dashboard]()
+### Global Data Science Salary Analysis [SQL]() - [Tableau Dashboard]()
 - **Dataset**: [Data Science Salaries 2023](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
 - **Audience**:
 - **Objective**:
