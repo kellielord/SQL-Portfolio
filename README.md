@@ -23,7 +23,7 @@ Insert description here!
 
 With the objective of investigating hidden sales patterns within the Classic Models database, I conducted a complete analysis of the 2003-2005 sales data. I focused on breaking down product performance by product line, country, and city — providing clear, applicable insights into the most valuable regions and product categories. During my analysis, I identified key patterns that could impact sales decisions, such as products most purchased together and the fluctuation of sales value over time. Through interacting with my project, my audience can easily visualize and act on the data, driving empowered business decisions.
 
-#### Electric Vehicle Dashboard - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/ElectricVehicleDashboard_17260145241310/Dashboard1?publish=yes)
+### Electric Vehicle Dashboard - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/ElectricVehicleDashboard_17260145241310/Dashboard1?publish=yes)
 - This dashboard provides a comprehensive view of electric vehicle adoption patterns across counties Washington, USA. The dashboard includes visualizations such as vehicle population by year, a pie chart of vehicle types, and a breakdown of the top 10 counties for electric vehicle adoption.
 
 ## Acknowledgements
