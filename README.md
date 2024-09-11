@@ -16,6 +16,9 @@ Insert description here!
 
 Insert description here!
 
+### Electric Vehicle Dashboard - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/ElectricVehicleDashboard_17260145241310/Dashboard1?publish=yes)
+- This dashboard provides a comprehensive view of electric vehicle adoption patterns across counties Washington, USA. The dashboard includes visualizations such as vehicle population by year, a pie chart of vehicle types, and a breakdown of the top 10 counties for electric vehicle adoption.
+
 ### Classic Models Sales Overview [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Sales%20Overview%20Classic%20Models.sql) - [Google Sheet](https://docs.google.com/spreadsheets/d/1EEH8KPtTxuVk2v5BaW9RD5ewuMzpaKBpJbFbwCT71ys/pubhtml) - [PowerBI Dashboard](https://github.com/kellielord/SQL-Portfolio/blob/main/Classic%20Models%20Dashboard.pdf)
 - **Dataset**: Classic Models database, available [here](https://www.kaggle.com/code/rhettap1/classicmodels-w-sql-excel-python)
 - **Audience**: Sales Leaders 
