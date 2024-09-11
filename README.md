@@ -3,7 +3,7 @@ Thank you for visiting! This repository showcases SQL I've written during person
 ## Featured Projects
 
 ### Global Data Science Salaries Analysis [SQL]() - [Tableau Dashboard]()
-- **Dataset**:
+- **Dataset**: [Data Science Salaries 2023](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
 - **Audience**:
 - **Objective**:
 
