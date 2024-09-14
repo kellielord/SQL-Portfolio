@@ -2,12 +2,12 @@
 Thank you for visiting! This repository showcases SQL I've written during personal projects and data analytics courses. Below, I've included some of my strongest projects and visualizations I've created in PowerBI and Tableau. Feel free to explore, and don't hesitate to [contact me](https://www.linkedin.com/in/kellielord/) if you have any questions! 
 ## Featured Projects
 
-### Global Data Science Salary Analysis [SQL]() - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/DataScienceSalariesAnalysis_17263310433610/USDashboard)
+### Global Data Science Salary Analysis [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Data%20Science%20Salaries%20Analysis%20(CTEs%20and%20Joins).sql) - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/DataScienceSalariesAnalysis_17263310433610/USDashboard)
 - **Dataset**: [Data Science Salaries 2023](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
 - **Audience**: Industry Professionals, Data Analysts
 - **Objective**: Provide an actionable overview of data science salaries by various factors, including work type, experience level, job title, and geographic location. 
 
-Curious about global data science salary trends and their potential career impact,, I conducted an in-depth analysis of salaries by experience level, job title, and employment type. This dashboard provides a comparative view of average salaries across the globe and in the US, featuring the top 10 highest paying roles and the impact of remote work. It offeres clear insights into both global and national industry trends, enabling users to make informed career and business decisions.
+Curious about global data science salary trends and their potential career impact, I conducted an in-depth analysis of salaries by experience level, job title, and employment type. This dashboard provides a comparative view of average salaries across the globe and in the US, featuring the top 10 highest paying roles and the impact of remote work. It offeres clear insights into both global and national industry trends, enabling users to make informed career and business decisions.
 
 ### AdventureWorks Vendor Performance Analysis [SQL]() - [Tableau Dashboard]()
 - **Dataset**:
