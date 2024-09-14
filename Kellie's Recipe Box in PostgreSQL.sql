@@ -5,7 +5,7 @@ Kellie's Recipe Box in PostgreSQL - Database design, data manipulation
 /*
 Create categories, recipes, ingredients, and recipe_ingredients tables.
 */
--- Ingredient categories
+-- Recipe categories
 CREATE TABLE categories ( 
 	category_id INT PRIMARY KEY,
 	category_name VARCHAR(50)
