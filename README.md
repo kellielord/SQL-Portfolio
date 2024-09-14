@@ -7,7 +7,7 @@ Thank you for visiting! This repository showcases SQL I've written during person
 - **Audience**: Industry Professionals, Data Analysts
 - **Objective**: Provide an actionable overview of data science salaries by various factors, including work type, experience level, job title, and geographic location. 
 
-Curious about global data science salary trends and their potential career impact, I conducted an in-depth analysis of salaries by experience level, job title, and employment type for 2023. This dashboard provides a comparative view of average salaries across the globe and in the US, featuring the top 10 highest paying roles and the impact of remote work. The analysis was supported by SQL queries that identified top job titles and their global counterparts, average salaries by company size, and regional salary data, offering clear insights into both global and national industry trends. 
+Curious about global data science salary trends and their potential career impact, I performed an analysis of salaries by experience level, job title, and employment type for the year 2023. This dashboard provides a view of average salaries across the globe and in the US, featuring the top 10 highest paying roles and the impact of remote work. The analysis was supported with SQL queries that identified top job titles and their global counterparts, average salaries by company size, and regional salary data, offering clear insights into both global and national industry trends. 
 
 ### AdventureWorks Vendor Performance Analysis | [SQL]() - [Tableau Dashboard]()
 - **Dataset**:
@@ -25,4 +25,4 @@ With the objective of investigating hidden sales patterns within the Classic Mod
 
 ## More Projects
 - **Electric Vehicle Dashboard** - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/ElectricVehicleDashboard_17260145241310/Dashboard1?publish=yes): This dashboard provides a comprehensive view of electric vehicle adoption patterns across counties in Washington, USA. The dashboard includes visualizations such as vehicle population by year, a pie chart of vehicle types, and a breakdown of the top 10 counties for electric vehicle adoption.
-- **Recipe Box Database** - [SQL]():
+- **Recipe Box Database** - [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Kellie's%20Recipe%20Box%20in%20PostgreSQL.sql): My Recipe Box project utilizes PostgreSQL to design a relational database that contains recipe data including categories, ingredients, and cooking instructions. 
