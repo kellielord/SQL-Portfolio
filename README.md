@@ -7,7 +7,7 @@ Thank you for visiting! This repository showcases SQL I've written during person
 - **Audience**: Industry Professionals, Data Analysts
 - **Objective**: Provide an actionable overview of data science salaries by various factors, including work type, experience level, job title, and geographic location. 
 
-Curious about global data science salary trends and their potential career impact, I conducted an in-depth analysis of salaries by experience level, job title, and employment type. This dashboard provides a comparative view of average salaries across the globe and in the US, featuring the top 10 highest paying roles and the impact of remote work. The analysis was supported by SQL queries that identified top job titles and their global counterparts, average salaries by company size, and regional salary data, offering clear insights into both global and national industry trends. 
+Curious about global data science salary trends and their potential career impact, I conducted an in-depth analysis of salaries by experience level, job title, and employment type for 2023. This dashboard provides a comparative view of average salaries across the globe and in the US, featuring the top 10 highest paying roles and the impact of remote work. The analysis was supported by SQL queries that identified top job titles and their global counterparts, average salaries by company size, and regional salary data, offering clear insights into both global and national industry trends. 
 
 ### AdventureWorks Vendor Performance Analysis [SQL]() - [Tableau Dashboard]()
 - **Dataset**:
