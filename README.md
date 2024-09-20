@@ -2,7 +2,7 @@
 Thank you for visiting! This repository showcases SQL I've written during personal projects and data analytics courses. Below, I've included some of my strongest projects and visualizations I've created in PowerBI and Tableau. Feel free to explore, and don't hesitate to [contact me](https://www.linkedin.com/in/kellielord/) if you have any questions! 
 ## Featured Projects
 
-### Data Science Salaries 2023 Global Analysis | [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Data%20Science%20Salaries%20Analysis%20(CTEs%20and%20Joins).sql) - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/DataScienceSalariesAnalysis_17263310433610/USDashboard)
+### Data Science Salaries Global Analysis | [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Data%20Science%20Salaries%20Analysis%20(CTEs%20and%20Joins).sql) - [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/DataScienceSalariesAnalysis_17263310433610/USDashboard)
 - **Dataset**: [Data Science Salaries 2023](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
 - **Audience**: Industry Professionals, Data Analysts
 - **Objective**: Provide an actionable overview of data science salaries by various factors, including work type, experience level, job title, and geographic location. 
@@ -16,7 +16,7 @@ The Data Science Salaries dataset contains salary data for the year 2023. In thi
 
 In this analysis, I focused on the Superstore sales sample data to evaluate sales and profit changes between 2019 and 2020. I created dynamic visualizations that break down performance by product category, region, and customer segments. This dashboard provides sales teams the information needed to analyze sales, profit, shipping, and the year-over-year impact, guiding growth and optimizing strategies for success.
 
-### Classic Models Sales Analysis: Regional Performance & Product Trends | [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Sales%20Overview%20Classic%20Models.sql) - [Google Sheet](https://docs.google.com/spreadsheets/d/1EEH8KPtTxuVk2v5BaW9RD5ewuMzpaKBpJbFbwCT71ys/pubhtml) - [PowerBI Dashboard](https://github.com/kellielord/SQL-Portfolio/blob/main/Classic%20Models%20Dashboard.pdf)
+### Classic Models Sales Analysis | [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Sales%20Overview%20Classic%20Models.sql) - [Google Sheet](https://docs.google.com/spreadsheets/d/1EEH8KPtTxuVk2v5BaW9RD5ewuMzpaKBpJbFbwCT71ys/pubhtml) - [PowerBI Dashboard](https://github.com/kellielord/SQL-Portfolio/blob/main/Classic%20Models%20Dashboard.pdf)
 - **Dataset**: [Classic Models](https://www.kaggle.com/code/rhettap1/classicmodels-w-sql-excel-python)
 - **Audience**: Sales Leaders 
 - **Objective**: Analyze sales patterns through product performance, regional sales numbers, and customer trends in the Classic Models database.
