@@ -9,12 +9,12 @@ Thank you for visiting! This repository showcases SQL I've written during person
 
 The Data Science Salaries dataset contains salary data for the year 2023. In this project, I wanted to analyze the career impacts of various measures against salary, such as experience level, job titles, and employment types. My dashboard and SQL queries allow my user to visualize average salaries in the US and worldwide, identify top-paying roles, and consider the impact of remote work. 
 
-### Superstore Sales and Profit Analysis with Year-over-Year Insights | [SQL]() - [Tableau Dashboard]()
-- **Dataset**:
-- **Audience**:
-- **Objective**:
+### Superstore Sales and Profit Dashboard| [Tableau Dashboard]()
+- **Dataset**: [Superstore]()
+- **Audience**: Business Analysts, Sales Managers
+- **Objective**: Analyze sales and profit trends year-over-year (YoY) to identify key insights into product performance, regional sales variations, and customer behavior.
 
-Insert description here!
+In this analysis, I focused on the Superstore sales sample data to evaluate sales and profit changes between 2019 and 2020. I created dynamic visualizations that break down performance by product category, region, and customer segments. This dashboard provides sales teams the information needed to analyze sales, profit, shipping, and the year-over-year impact, guiding growth and optimizing strategies for success.
 
 ### Classic Models Sales Analysis: Regional Performance & Product Trends | [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Sales%20Overview%20Classic%20Models.sql) - [Google Sheet](https://docs.google.com/spreadsheets/d/1EEH8KPtTxuVk2v5BaW9RD5ewuMzpaKBpJbFbwCT71ys/pubhtml) - [PowerBI Dashboard](https://github.com/kellielord/SQL-Portfolio/blob/main/Classic%20Models%20Dashboard.pdf)
 - **Dataset**: [Classic Models](https://www.kaggle.com/code/rhettap1/classicmodels-w-sql-excel-python)
