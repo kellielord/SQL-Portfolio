@@ -9,8 +9,8 @@ Thank you for visiting! This repository showcases SQL I've written during person
 
 The Data Science Salaries dataset contains salary data for the year 2023. In this project, I wanted to analyze the career impacts of various measures against salary, such as experience level, job titles, and employment types. My dashboard and SQL queries allow my user to visualize average salaries in the US and worldwide, identify top-paying roles, and consider the impact of remote work. 
 
-### Superstore Sales and Profit Dashboard| [Tableau Dashboard]()
-- **Dataset**: [Superstore]()
+### Superstore Sales and Profit Dashboard | [Tableau Dashboard]()
+- **Dataset**: [Superstore](https://www.kaggle.com/datasets/monisamir/online-super-store-sales-analysis)
 - **Audience**: Business Analysts, Sales Managers
 - **Objective**: Analyze sales and profit trends year-over-year (YoY) to identify key insights into product performance, regional sales variations, and customer behavior.
 
