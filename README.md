@@ -7,7 +7,7 @@ Thank you for visiting! This repository showcases SQL I've written during person
 - **Audience**: Industry Professionals, Data Analysts
 - **Objective**: Provide an actionable overview of data science salaries by various factors, including work type, experience level, job title, and geographic location. 
 
-The Data Science Salaries dataset contains salary data for the year 2023. In this project, I wanted to analyze the career impacts of various measures against salary, such as experience level, job titles, and employment types. My dashboard and SQL queries allow my user to visualize average salaries in the US and worldwide, identify top-paying roles, and consider the impact of remote work. 
+The Data Science Salaries dataset contains salary data for the year 2023. In this project, I wanted to analyze the career impacts of various factors against salary, such as experience level, job titles, and employment types. My dashboard and SQL queries allow my user to visualize average salaries in the US and worldwide, identify top-paying roles, and consider the impact of remote work. 
 
 ### Superstore Sales and Profit Dashboard | [Tableau Dashboard](https://public.tableau.com/app/profile/kellie.lord/viz/SuperstoreAnalysis_17268536872790/Overview)
 - **Dataset**: [Superstore](https://www.kaggle.com/datasets/monisamir/online-super-store-sales-analysis)
