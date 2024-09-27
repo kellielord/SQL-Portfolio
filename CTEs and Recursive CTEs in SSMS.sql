@@ -7,12 +7,12 @@ Construct a query that identifies the top 10 sales orders per month, aggregates 
 */
 
 SELECT
-	A.OrderMonth,
-	A.Top10Total,
-	PrevTop10Total = B.Top10Total
+     A.OrderMonth,
+     A.Top10Total,
+     PrevTop10Total = B.Top10Total
 FROM
 (
-	SELECT
+     SELECT
 		OrderMonth,
 		Top10Total = SUM(TotalDue)
 	FROM (
