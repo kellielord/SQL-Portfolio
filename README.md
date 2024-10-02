@@ -7,7 +7,7 @@ Welcome to my SQL Portfolio! This repository showcases a collection of SQL proje
 - **Audience**: Business Analysts, Sales Managers
 - **Objective**: Analyze sales and profit trends year-over-year (YoY) to identify key insights into product performance, regional sales variations, and customer behavior.
 
-In this analysis, I focused on the Superstore sales sample data to evaluate sales and profit changes between 2019 and 2020. I created dynamic visualizations that break down performance by product category, region, and customer segments. This dashboard equips sales teams with insights needed to analyze sales, profit margins, and shipping efficiency, optimizing performance.
+In this analysis, I focused on the Superstore sample data to evaluate sales and profit changes between 2019 and 2020. I created dynamic visualizations that break down performance by product category, region, and customer segments. This dashboard equips sales teams with insights needed to analyze sales, profit margins, and shipping efficiency, optimizing performance.
 
 ### Classic Models Sales Analysis | [SQL](https://github.com/kellielord/SQL-Portfolio/blob/main/Sales%20Overview%20Classic%20Models.sql) - [Google Sheet](https://docs.google.com/spreadsheets/d/1EEH8KPtTxuVk2v5BaW9RD5ewuMzpaKBpJbFbwCT71ys/pubhtml) - [PowerBI Dashboard](https://github.com/kellielord/SQL-Portfolio/blob/main/Classic%20Models%20Dashboard.pdf)
 - **Dataset**: [Classic Models](https://www.kaggle.com/code/rhettap1/classicmodels-w-sql-excel-python)
