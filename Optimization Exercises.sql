@@ -1,6 +1,6 @@
 /*
 SQL Optimization Exercises
-These exercises demonstrate my skills in SQL optimization using techiniques including temporary tables,
+These exercises demonstrate my skills in SQL optimization using techniques including temporary tables,
 UPDATE statements, indexed queries, and variables. The exercises showcase my ability to solve complicated
 data problems and contribute to improved database management and efficiency. 
 */
